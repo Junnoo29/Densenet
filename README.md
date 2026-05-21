@@ -29,14 +29,18 @@ najlepszy loss walidacyjny
 
 Każdy wiersz odpowiada jednemu uruchomieniu treningu.
 
+
 3. Interpretacja
+
 Plik Excel służy do analizy wpływu hiperparametrów na wydajność modelu. Zawiera obserwacje dotyczące:
 overfittingu i underfittingu
 zachowania optymalizatora (Adam vs SGD)
 wpływu learning rate i batch size
 skuteczności schedulerów
 
+
 4. Struktura projektu
+
 skrypt treningowy – pipeline uczenia modelu
 training_results.xlsx – log eksperymentów
 checkpointy modeli (.pth) – generowane lokalnie (NIE są wysyłane na GitHub)
