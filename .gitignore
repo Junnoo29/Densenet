@@ -1,0 +1,21 @@
+# dane (NIE wrzucamy)
+data/
+
+# modele
+models/
+*.pth
+*.zip
+
+# środowiska
+venv/
+env/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# systemowe
+.DS_Store
+
+.~lock.*
+*.lock
