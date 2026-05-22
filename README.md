@@ -1,6 +1,6 @@
 1. Ważna informacja o plikach modeli:
 
-Pliki checkpointów modeli (.pth) nie są dołączone do tego repozytorium ze względu na ich duży rozmiar.
+Pliki modeli (.pth) z treningów nie są dołączone do tego repozytorium ze względu na ich duży rozmiar.
 
 Zostały one wykluczone, ponieważ:
 
